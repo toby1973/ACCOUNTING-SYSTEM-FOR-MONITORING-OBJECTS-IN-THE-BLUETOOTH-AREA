@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=BLE
+Type=Application
+Comment=BLESCAN
+Categories=Application
+Exec=/home/pi/Desktop/Python/BLESCAN.sh
+Terminal=false
+StartupNotify=false
+Icon=/home/pi/Desktop/Python/bluetooth-icon.png
