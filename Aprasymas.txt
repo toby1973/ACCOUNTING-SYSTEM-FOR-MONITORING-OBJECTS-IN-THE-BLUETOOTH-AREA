@@ -1,0 +1,21 @@
+
+
+
+BLUETOOTH APRĖPTIES ZONOJE ESANČIŲ OBJEKTŲ STEBĖJIMO APSKAITOS SISTEMA
+
+Autorius Mantas Mecelica
+
+Programa kurta naudojant Python ir MariaDB.
+
+						"""Failų Aprsašymas"""
+						
+						
+BLE.Desktop - Shortcut/Piktograma   Paleidžia BLESCAN.sh.
+BLEIrasai.py - Valdo duomenų bazės BLEirenginiai lentelę
+BLESCAN.sh - Paleidžia programa/programos pirma langą LoginFormaPGR.py.
+DarbuotojuIrasai.py -Valdo duomenų bazės Darbuotojai lentelę
+GUI.py - Pagrindinis programos Langas, Skenavimo pašto siuntimo ir kitos pagrindinės funkcijos.
+LoginFormaPGR.py - Prisijungimo Langas. Prisijungus Paleidžia GUI.py
+ObjektuIrasai.py - Valdo duomenų bazės Objektai lentelę
+UzregistruotiPasiimtaBLE.py - Valdo duomenų bazės UzregistruotiPasiimtaObjekta lentelę
+Bluetooth-icon.png - Bluetooth paveikslelis piktogramai BLE.Desktop
